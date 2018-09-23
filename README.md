@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-# first_flutter_project
+# WeatherHome Flutter App
+A new Flutter application using basic widgets.
 
-A new Flutter application.
-
-## Getting Started
+<img src="https://github.com/PoojaB26/WeatherHome/blob/master/screenshot.png" width="250">
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
-=======
-# WeatherHome-Flutter
->>>>>>> 4a6a8bdb66fb29525cdc27fa4da4242c0cd7c79b
